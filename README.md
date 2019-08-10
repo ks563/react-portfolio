@@ -1,2 +1,2 @@
 # react-portfolio
-portfolio built using react and redux
+portfolio built using react
